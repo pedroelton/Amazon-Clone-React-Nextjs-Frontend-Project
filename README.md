@@ -2,7 +2,7 @@
 
 ## _Amazon Clone_
 
-[![N|Solid](https://pedroelton.com/wp-content/uploads/2022/03/logo.svg)](https://pedroelton.com)
+[![N|Solid](https://pedroelton.com/wp-content/uploads/2022/03/2-1.svg)
 
 This project was made when I started studing ReactJs.
 
