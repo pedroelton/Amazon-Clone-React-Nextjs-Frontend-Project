@@ -2,7 +2,7 @@
 
 ## _Amazon Clone_
 
-[![N|Solid](https://pedroelton.com/wp-content/uploads/2022/03/2.svg)](https://pedroelton.com)
+[![N|Solid](https://pedroelton.com/wp-content/uploads/2022/03/logo.svg)](https://pedroelton.com)
 
 This project was made when I started studing ReactJs.
 
@@ -18,7 +18,7 @@ This project was made when I started studing ReactJs.
 To test the project all you need to do is to clone the repository:
 
 ```sh
-git clone https://github.com/pedroelton/Amazon-Clone-FrontEnd.git
+git clone https://github.com/pedroelton/Amazon-Clone-React-Nextjs-Frontend-Project.git
 ```
 
 Enter in the file:
