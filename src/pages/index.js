@@ -2,8 +2,9 @@ import Head from "next/head";
 import Header from "../components/Header";
 import Banner from "../components/Banner";
 import ProductFeed from "../components/ProductFeed";
+import Footer from "../components/footer";
 
-const Home = ({ products }) => {
+const Home = ({ products, products2 }) => {
   return (
     <div className="bg-gray-100">
       <Head>
@@ -17,7 +18,11 @@ const Home = ({ products }) => {
         <Banner />
         {/* Product Feed */}
         <ProductFeed products={products} />
+        {/* New Arrivals */}
+        
       </main>
+        {/* Footer */}
+        <Footer/>
     </div>
   );
 };
@@ -33,5 +38,3 @@ export async function getServerSideProps(context) {
   };
 }
 export default Home;
-
-// GET >>> https://fakestoreapi.com/products

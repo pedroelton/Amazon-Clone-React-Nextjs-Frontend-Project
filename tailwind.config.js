@@ -9,6 +9,8 @@ module.exports = {
     extend: {
       colors: {
         amazon_blue: {
+          linkHover: "#C7511F",
+          link: "#007185",
           light: "#232F3E",
           DEFAULT: "#131921",
         },

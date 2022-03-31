@@ -59,6 +59,4 @@ https://pedroelton.com
 ## License
 
 MIT
-# Amazon-Clone-React-Nextjs-Frontend-Project
-# Amazon-Clone-React-Nextjs-Frontend-Project
-# Amazon-Clone-React-Nextjs-Frontend-Project
+Amazon-Clone-React-Nextjs-Frontend-Project
